@@ -37,12 +37,9 @@ Here are some ideas to get you started:
 </br>
 -->
 
-<h2>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
+## Hey there
 
 * ✨ I'm an Aritificial Intelligence student at KCL
-* 🌱  I’m currently learning data science and NN
-* 🌱  I’m currently working on a computer vision based target scoring system
-* ✨  I'm here at [wrayx.uk](https://wrayx.uk/)
+* 🌱 currently learning data science and NN
+* 🌊 working on a computer vision based target scoring system
+* 👾 You can find me here at [wrayx.uk](https://wrayx.uk/)
