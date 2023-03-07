@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 
 * ✨ I'm an Aritificial Intelligence student at KCL
 * 🌱 currently learning data science and NN
-* 🌊 working on a computer vision based shot tracking system for target shooting
-* 👾 You can find me here at [wrayx.uk](https://wrayx.uk/)
+* 🌊 working on a visual based shot tracking system for target shooting
+* 👾 You can find me at [wrayx.uk](https://wrayx.uk/)
