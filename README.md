@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 ## Hey there
 
 * ✨ I'm an Aritificial Intelligence student at KCL
-* 🌱 currently learning data science and NN
-* 🌊 working on a visual based shot tracking system for target shooting
-* 👾 You can find me at [wrayx.uk](https://wrayx.uk/)
+* 🌱 Currently learning data science and NN
+* 🌊 Working on a visual based shot tracking system for target shooting
+* 👾 [WRAYX.UK](https://wrayx.uk/)
