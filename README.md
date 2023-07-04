@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 </br>
 </br>
+<div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=wrayx&style=flat-square&color=blue" alt=""/>
+</div>
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -37,9 +39,12 @@ Here are some ideas to get you started:
 </br>
 -->
 
-## Hey there
+### Hello there 👋🏻
 
-* ✨ I'm an Aritificial Intelligence student at KCL
-* 🌱 Currently learning data science and NN
-* 🌊 Working on a visual based shot tracking system for target shooting
-* 👾 [WRAYX.UK](https://wrayx.uk/)
+I'm a Full-stack Java developer and occasional Python/C++ AI engineer who loves the idea of spotting subtle problems in our daily lives and using programming/scripts to either fix them or make the process better. I'm also interested in cloud technologies, AI, and philosophy.</br>
+
+
+[`🏠 wrayx.uk`](https://wrayx.uk/)
+[`🐦 @wrayqwq`](https://twitter.com/wrayqwq)
+[`🔗 @wrayx`](https://linkedin.com/in/wrayx)
+[`📫 wrayqwq@gmail.com`](mailto:wrayqwq@gmail.com)
