@@ -26,4 +26,4 @@ I'm a Full-stack Java developer and occasional Python/C++ AI engineer who loves 
 
 <br>
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000756.16307e23382f481581bd3021eecd50ae.1754)](https://github.com/rayriffy/apple-music-github-profile)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000756.16307e23382f481581bd3021eecd50ae.1754)]()
