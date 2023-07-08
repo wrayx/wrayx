@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 
 ### Hello there 👋🏻
 
-I'm a Full-stack Java developer and occasional Python/C++ AI engineer who loves the idea of spotting subtle problems in our daily lives and using programming/scripts to either fix them or make the process better. I'm also interested in cloud technologies, AI, and philosophy.</br>
+I'm a Full-stack Java developer and occasional Python/C++ AI engineer who loves the idea of spotting subtle problems in our daily lives and using programming to either fix them or make the process better. I'm also interested in computer vision, FPGA, and philosophy.</br>
 
 
 [`🔗 @wrayx`](https://linkedin.com/in/wrayx)
 [`🐦 @wrayqwq`](https://twitter.com/wrayqwq)
-[`🏠 wrayx.uk`](https://wrayx.uk/)
 [`📫 wrayqwq@gmail.com`](mailto:wrayqwq@gmail.com)
 
 <!--
+[`🏠 wrayx.uk`](https://wrayx.uk/)
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000756.16307e23382f481581bd3021eecd50ae.1754)]()
 -->
