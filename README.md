@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 I'm a Full-stack Web developer and occasional Python/C++ AI engineer who loves the idea of spotting subtle problems in our daily lives and using programming to either fix them or make the process better. </br>
 
-
+[`🏠 wrayx.uk`](https://wrayx.uk/)
 [`🔗 @wrayx`](https://linkedin.com/in/wrayx)
 [`🐦 @wrayqwq`](https://twitter.com/wrayqwq)
 [`📫 wrayqwq@gmail.com`](mailto:wrayqwq@gmail.com)
 
 <!--
-[`🏠 wrayx.uk`](https://wrayx.uk/)
+
 <br>
 
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000756.16307e23382f481581bd3021eecd50ae.1754)]()
