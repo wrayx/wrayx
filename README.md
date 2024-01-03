@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hello there 👋🏻
 
-I'm a Full-stack Web developer and occasional AI engineer who loves the idea of spotting subtle problems in our daily lives and using software/programming to either fix them or make the process better. </br>
+I'm a Full-stack developer and occasional AI engineer who loves the idea of spotting subtle problems in our daily lives and using software/programming to either fix them or make the process better. </br>
 
 [`🏠 wrayx.uk`](https://wrayx.uk/)
 [`🔗 @wrayx`](https://linkedin.com/in/wrayx)
