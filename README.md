@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm a Full-stack developer and occasional AI engineer who loves the idea of spotting subtle problems in our daily lives and using software/programming to either fix them or make the process better. </br>
 
-[`🏠 wrayx.uk`](https://wrayx.uk/)
+[`🏠 wray.blog`](https://wray.blog/)
 [`🔗 @wrayx`](https://linkedin.com/in/wrayx)
 [`🐦 @wrayqwq`](https://twitter.com/wrayqwq)
 [`📫 wrayqwq@gmail.com`](mailto:wrayqwq@gmail.com)
