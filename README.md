@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hello there 👋🏻
 
-I'm a Full-stack developer and occasional AI engineer who loves the idea of spotting subtle problems in our daily lives and using software/programming to either fix them or make the process better. </br>
+Full-stack engineer. I like problems that don't obviously pay back, and software that quietly removes friction from the day. LLMs are a tool in the box now, not the headline. </br>
 
 [`🏠 wray.blog`](https://wray.blog/)
 [`🔗 @wrayx`](https://linkedin.com/in/wrayx)
