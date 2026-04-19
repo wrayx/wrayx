@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hello there 👋🏻
 
-Full-stack engineer. I like problems that don't obviously pay back, and software that quietly removes friction from the day. LLMs are a tool in the box now, not the headline. </br>
+Full-stack engineer. I like problems that don't obviously pay back, and software that quietly removes friction from the day. </br>
 
 [`🎯 portfolio`](https://targets.wrayx.uk/)
 [`🔗 @wrayx`](https://linkedin.com/in/wrayx)
